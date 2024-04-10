@@ -16,11 +16,17 @@ function App() {
     <Router>
       <Header />
       <Routes>
-        <Route path="/" element={<Authors />} />
-        <Route path="/MostLikedPosts" element={<MostLikedPosts />} />
-        <Route path="/MostCommentedPosts" element={<MostCommentedPosts />} />
-        <Route path="/:authorName" element={<AuthorDetail />} />
-        <Route path="/posts/:postName" element={<Posts />} />
+        <Route path="/blog-website" element={<Authors />} />
+        <Route
+          path="/blog-website/MostLikedPosts"
+          element={<MostLikedPosts />}
+        />
+        <Route
+          path="/blog-webiste/MostCommentedPosts"
+          element={<MostCommentedPosts />}
+        />
+        <Route path="/blog-website/:authorName" element={<AuthorDetail />} />
+        <Route path="/blog-website/posts/:postName" element={<Posts />} />
       </Routes>
       <Footer />
     </Router>
