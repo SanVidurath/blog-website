@@ -169,7 +169,7 @@ export const data = [
   {
     id: 2,
     name: "Arman Murali",
-    img: "/images/Arman Murali.png",
+    img: "/blog-website/images/Arman Murali.png",
     mobile: "738-209-4615",
     posts: [
       {
@@ -269,7 +269,7 @@ export const data = [
   {
     id: 3,
     name: "Aslög Natali",
-    img: "/images/Aslög Natali.png",
+    img: "/blog-website/images/Aslög Natali.png",
     mobile: "312-578-0946",
     posts: [
       {
@@ -361,7 +361,7 @@ export const data = [
   {
     id: 4,
     name: "Daniela Brooklynn",
-    img: "/images/Daniela Brooklynn.png",
+    img: "/blog-website/images/Daniela Brooklynn.png",
     mobile: "867-540-1236",
     posts: [
       {
@@ -545,7 +545,7 @@ export const data = [
   {
     id: 5,
     name: "Declan Chikondi",
-    img: "/images/Declan Chikondi.png",
+    img: "/blog-website/images/Declan Chikondi.png",
     mobile: "629-801-3745",
     posts: [
       {
@@ -693,7 +693,7 @@ export const data = [
   {
     id: 6,
     name: "Despoina Basira",
-    img: "/images/Despoina Basira.png",
+    img: "/blog-website/images/Despoina Basira.png",
     mobile: "493-726-5801",
     posts: [
       {
@@ -774,7 +774,7 @@ export const data = [
   {
     id: 7,
     name: "Erzsébet Hui",
-    img: "/images/Erzsébet Hui.png",
+    img: "/blog-website/images/Erzsébet Hui.png",
     mobile: "215-697-8340",
     posts: [
       {
@@ -907,7 +907,7 @@ export const data = [
   {
     id: 8,
     name: "Gethin Grimaldo",
-    img: "/images/Gethin Grimaldo.png",
+    img: "/blog-website/images/Gethin Grimaldo.png",
     mobile: "976-302-5487",
     posts: [
       {
@@ -1106,7 +1106,7 @@ export const data = [
   {
     id: 9,
     name: "Kullervo Bogumił",
-    img: "/images/Kullervo Bogumił.png",
+    img: "/blog-website/images/Kullervo Bogumił.png",
     mobile: "381-645-9702",
     posts: [
       {
@@ -1219,7 +1219,7 @@ export const data = [
   {
     id: 10,
     name: "Landyn Áed",
-    img: "/images/Landyn Áed.png",
+    img: "/blog-website/images/Landyn Áed.png",
     mobile: "504-819-3267",
     posts: [
       {
@@ -1402,7 +1402,7 @@ export const data = [
   {
     id: 11,
     name: "Medeia Sydnie",
-    img: "/images/Medeia Sydnie.png",
+    img: "/blog-website/images/Medeia Sydnie.png",
     mobile: "730-158-6942",
     posts: [
       {
@@ -1518,7 +1518,7 @@ export const data = [
   {
     id: 12,
     name: "Noemi Cyneburga",
-    img: "/images/Noemi Cyneburga.png",
+    img: "/blog-website/images/Noemi Cyneburga.png",
     mobile: "862-493-7051",
     posts: [
       {
@@ -1591,7 +1591,7 @@ export const data = [
   {
     id: 13,
     name: "Tereza Eva",
-    img: "/images/Tereza Eva.png",
+    img: "/blog-website/images/Tereza Eva.png",
     mobile: "297-450-8163",
     posts: [
       {
@@ -1717,7 +1717,7 @@ export const data = [
   {
     id: 14,
     name: "Urbgen Ēvalds",
-    img: "/images/Urbgen Ēvalds.png",
+    img: "/blog-website/images/Urbgen Ēvalds.png",
     mobile: "540-912-3678",
     posts: [
       {
@@ -1904,7 +1904,7 @@ export const data = [
   {
     id: 15,
     name: "Viyan Miljana",
-    img: "/images/Viyan Miljana.png",
+    img: "/blog-website/images/Viyan Miljana.png",
     mobile: "639-824-0715",
     posts: [
       {
@@ -1968,7 +1968,7 @@ export const data = [
   {
     id: 16,
     name: "Zsigmond Danis",
-    img: "/images/Zsigmond Danis.png",
+    img: "/blog-website/images/Zsigmond Danis.png",
     mobile: "758-201-6349",
     posts: [
       {
