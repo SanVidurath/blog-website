@@ -12,7 +12,7 @@ const Authors = () => {
   const navigate = useNavigate();
 
   const handleAuthor = (authorName: string) => {
-    navigate(`/${authorName}`);
+    navigate(`/blog-website/${authorName}`);
   };
 
   return (

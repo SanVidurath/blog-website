@@ -6,7 +6,11 @@ const Header = () => {
     <div className="position-fixed w-100 navbar-container">
       <nav className="navbar navbar-expand-lg bg-body-tertiary">
         <div className="container-fluid mx-3">
-          <Link to="/" className="navbar-brand" style={{ cursor: "pointer" }}>
+          <Link
+            to="/blog-website"
+            className="navbar-brand"
+            style={{ cursor: "pointer" }}
+          >
             <p className="h4">HOME</p>
           </Link>
           <button
@@ -23,17 +27,24 @@ const Header = () => {
           <div className="collapse navbar-collapse ms-auto" id="navbarNav">
             <ul className="navbar-nav" style={{ marginLeft: "auto" }}>
               <li className="nav-item">
-                <Link to="/" className={"nav-link"} aria-current="page">
+                <Link
+                  to="/blog-website"
+                  className={"nav-link"}
+                  aria-current="page"
+                >
                   <p className="h5">Authors</p>
                 </Link>
               </li>
               <li className="nav-item">
-                <Link to="/MostLikedPosts" className={"nav-link"}>
+                <Link to="/blog-website/MostLikedPosts" className={"nav-link"}>
                   <p className="h5">MostLikedPosts</p>
                 </Link>
               </li>
               <li className="nav-item">
-                <Link to="/MostCommentedPosts" className={"nav-link"}>
+                <Link
+                  to="/blog-website/MostCommentedPosts"
+                  className={"nav-link"}
+                >
                   <p className="h5">MostCommentedPosts</p>
                 </Link>
               </li>

@@ -35,7 +35,12 @@ const Posts = () => {
           originalPost.postComments.map((comments) => (
             <div className="align-self-start comments" key={comments.comment}>
               <p className="h5" style={{ cursor: "pointer" }}>
-                <Link to={`/${comments.commentedBy.replace(/\s+/g, "")}`}>
+                <Link
+                  to={`/blog-website/${comments.commentedBy.replace(
+                    /\s+/g,
+                    ""
+                  )}`}
+                >
                   {comments.commentedBy}
                 </Link>
               </p>

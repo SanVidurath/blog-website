@@ -9,7 +9,7 @@ const MostLikedPosts = () => {
   const navigate = useNavigate();
 
   const navigateToPosts = (postName: string) => {
-    navigate(`/posts/${postName.replace(/\s/g, "")}`);
+    navigate(`/blog-website/posts/${postName.replace(/\s/g, "")}`);
   };
 
   return (
