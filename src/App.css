@@ -1,0 +1,35 @@
+.navbar-container {
+  z-index: 100;
+  top: 0;
+}
+
+.sort-buttons {
+  border-radius: 0;
+}
+
+.footer {
+  background-color: #e5e4e2;
+  height: 125px;
+  border-top: 1px solid #d3d3d3;
+}
+
+.footer-text {
+  font-weight: bold;
+}
+
+.comments {
+  margin-left: 20%;
+}
+
+@media (min-width: 500px) {
+  .sort-buttons {
+    width: 25%;
+  }
+}
+
+@media (max-width: 1150px) {
+  .comments {
+    margin-left: 10%;
+    margin-right: 5%;
+  }
+}
