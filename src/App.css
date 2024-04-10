@@ -27,6 +27,12 @@
   }
 }
 
+@media (max-width: 500px) {
+  .sort-buttons {
+    margin: 0 0.1rem;
+  }
+}
+
 @media (max-width: 1150px) {
   .comments {
     margin-left: 10%;

@@ -22,8 +22,8 @@ const Posts = () => {
           {originalPost?.postContent}
         </p>
         <h5 className="text-white-50 mt-4">Date : {originalPost?.postDate}</h5>
-        <h6 className="my-3">Author : {authorDetails?.name}</h6>
-        <h6 className="text-uppercase mt-2 mb-3">
+        <h6 className="my-3 text-center">Author : {authorDetails?.name}</h6>
+        <h6 className="text-uppercase text-center mt-2 mb-3">
           Likes : {originalPost?.postLikes}
         </h6>
       </div>
