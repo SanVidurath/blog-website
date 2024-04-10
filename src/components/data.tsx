@@ -2,7 +2,7 @@ export const data = [
   {
     id: 1,
     name: "Aneurin Lú",
-    img: "/images/Aneurin Lú.png",
+    img: "/blog-website/images/Aneurin Lú.png",
     mobile: "555-934-8176",
     posts: [
       {
