@@ -11,7 +11,7 @@ const Header = () => {
             className="navbar-brand"
             style={{ cursor: "pointer" }}
           >
-            <p className="h4 text-white">HOME</p>
+            <p className="h4">HOME</p>
           </Link>
           <button
             className="navbar-toggler"
@@ -32,12 +32,12 @@ const Header = () => {
                   className={"nav-link"}
                   aria-current="page"
                 >
-                  <p className="h5 text-white">Authors</p>
+                  <p className="h5">Authors</p>
                 </Link>
               </li>
               <li className="nav-item">
                 <Link to="/blog-website/MostLikedPosts" className={"nav-link"}>
-                  <p className="h5 text-white">MostLikedPosts</p>
+                  <p className="h5">MostLikedPosts</p>
                 </Link>
               </li>
               <li className="nav-item">
@@ -45,7 +45,7 @@ const Header = () => {
                   to="/blog-website/MostCommentedPosts"
                   className={"nav-link"}
                 >
-                  <p className="h5 text-white">MostCommentedPosts</p>
+                  <p className="h5">MostCommentedPosts</p>
                 </Link>
               </li>
             </ul>
